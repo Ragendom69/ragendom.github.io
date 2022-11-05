@@ -5,6 +5,8 @@ facebook.com, 732608194551595, RESELLER, c3e20eee3f780d68
 #Facebook Ownership Confirmation
 facebook.com, 619553233156691, RESELLER, с3e20eee3f780d68
 
+google.com, pub-1435251642715983, DIRECT, f08c47fec0942fa0
+
 #Mopub
 mopub.com, 9a2adbc4f785471da92f348a5585c3ae, DIRECT, 74b46c0ea83967ca
 mopub.com, ff410542374443559ae09cfb8c548811, DIRECT, 74b46c0ea83967ca
